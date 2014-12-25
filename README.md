@@ -1,4 +1,5 @@
 zcore
 =====
+About Zcore:
 
-Core of the Zilonus 
+Zcore is the core of the Zilonus project. This project is using Python and Hadoop. 
